@@ -29,3 +29,7 @@
   height: 100%;
   width: 100%;
 }
+
+#current {
+  z-index: 10;
+}
